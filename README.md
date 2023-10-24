@@ -3,8 +3,12 @@
 ## Описание
 Реализованы шутерные механики, а также взаимодействие с разными объектами.
 
-![Изображение](https://sun9-63.userapi.com/impg/7JoUTVYeg5xqn4ErBbOKLKnCHmCoFf0QFgzNQw/g67xWaeft8w.jpg?size=1618x910&quality=96&sign=ce29088deedcbcf1625f55dd6d5f5b17&type=album)
+<img src="https://github.com/Deadend4/3dShooterDemo/assets/70769398/602d7695-5b9d-4f7c-8abe-b5daf79cb70e" width="480">
+<img src="https://github.com/Deadend4/3dShooterDemo/assets/70769398/f5a162bb-9d2e-4773-9f58-0887cb12e792" width="480">
+
+<img src="https://github.com/Deadend4/3dShooterDemo/assets/70769398/8511b43b-f843-4662-bcc9-495ddb00a355" width="480">
+<img src="https://github.com/Deadend4/3dShooterDemo/assets/70769398/94f301b5-4dcb-4028-910e-c8bf7cdfbfdc" width="480">
 
 Добавлено меню паузы и настройки.
 
-![Изображение](https://sun9-51.userapi.com/impg/n4NWlZCzg94X_cTMB2kq0QJu2OCGbAHAFlhJNw/FCQ7SxcLp-Q.jpg?size=1624x912&quality=96&sign=7119eac623f9195b41adcfe9eb38ebe5&type=album)
+![меню](https://github.com/Deadend4/3dShooterDemo/assets/70769398/ad114d2a-83cb-4986-ba97-edf81ed227e2)
